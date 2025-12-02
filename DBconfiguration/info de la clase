@@ -1,1 +1,3 @@
-
+-- Insertar datos en la tabla usuarios
+INSERT INTO usuarios (nombre, correo, telefono, fecha_nacimiento) VALUES
+(‘Elsy Jemima Perez’, ‘elsyjemima@gmail.com’, ‘9621234567’, ‘1999-12-24’),
